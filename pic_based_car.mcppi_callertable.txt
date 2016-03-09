@@ -1,0 +1,3 @@
+main
+	mcu_init
+	motor_control
